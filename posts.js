@@ -5,6 +5,7 @@ module.exports = {
             "matchDate": "2022-04-16T17:00:59.000Z",
             "sessionCreatedAt": "2022-07-06T06:33:58.473Z",
             "y": "4",
+            "percentage": "4",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/25d1b7b7-2896-48a7-8dce-20aa66f7776c",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -22,6 +23,7 @@ module.exports = {
             "matchDate": "2022-03-09T10:00:00Z",
             "sessionCreatedAt": "2022-03-29T16:29:41.669Z",
             "y": "2",
+            "percentage": "-2",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -39,6 +41,7 @@ module.exports = {
             "matchDate": "2022-02-20T22:00:00.000Z",
             "sessionCreatedAt": "2022-07-06T12:12:33.741Z",
             "y": "3",
+            "percentage": "3",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -62,6 +65,7 @@ module.exports = {
             "matchDate": "2022-02-07T22:00:00.000Z",
             "sessionCreatedAt": "2022-06-08T10:10:18.560Z",
             "y": "5",
+            "percentage": "5",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -79,6 +83,7 @@ module.exports = {
             "matchDate": "2022-02-06T22:01:00.000Z",
             "sessionCreatedAt": "2022-06-08T08:59:24.186Z",
             "y": "6",
+            "percentage": "6",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -96,6 +101,7 @@ module.exports = {
             "matchDate": "2022-02-06T22:00:00.000Z",
             "sessionCreatedAt": "2022-06-08T12:09:56.680Z",
             "y": "1",
+            "percentage": "-1",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/890ad535-041d-415f-a48b-adf9e9d71ee6",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -119,6 +125,7 @@ module.exports = {
             "matchDate": "2022-01-31T14:00:00Z",
             "sessionCreatedAt": "2022-03-01T06:58:34.697Z",
             "y": "3",
+            "percentage": "3",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/25d1b7b7-2896-48a7-8dce-20aa66f7776c",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -136,6 +143,7 @@ module.exports = {
             "matchDate": "2022-01-31T10:00:00Z",
             "sessionCreatedAt": "2022-07-06T10:32:24.239Z",
             "y": "4",
+            "percentage": "4",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/95760c52-a4e9-4196-9141-60d886988dea",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -159,6 +167,7 @@ module.exports = {
             "matchDate": "2022-01-11T22:00:00.000Z",
             "sessionCreatedAt": "2022-07-06T14:34:42.696Z",
             "y": "2",
+            "percentage": "2",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/890ad535-041d-415f-a48b-adf9e9d71ee6",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -182,6 +191,7 @@ module.exports = {
             "matchDate": "2022-01-02T22:00:00.000Z",
             "sessionCreatedAt": "2022-03-03T13:38:01.572Z",
             "y": "5",
+            "percentage": "5",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/4cb53661-2de2-434b-84c0-396ec5d7db1c",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -205,6 +215,7 @@ module.exports = {
             "matchDate": "2021-12-20T22:00:00.000Z",
             "sessionCreatedAt": "2022-02-06T12:58:21.020Z",
             "y": "5",
+            "percentage": "5",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/9fd8b147-dd41-43f9-8e2b-af86fddf3560",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -222,6 +233,7 @@ module.exports = {
             "matchDate": "2021-12-17T22:00:00.000Z",
             "sessionCreatedAt": "2022-02-06T07:23:28.611Z",
             "y": "2",
+            "percentage": "-2",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/95760c52-a4e9-4196-9141-60d886988dea",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -239,6 +251,7 @@ module.exports = {
             "matchDate": "2021-12-12T22:00:00.000Z",
             "sessionCreatedAt": "2022-02-03T15:17:11.590Z",
             "y": "6",
+            "percentage": "6",
             "opponentLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/890ad535-041d-415f-a48b-adf9e9d71ee6",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -262,6 +275,7 @@ module.exports = {
             "matchDate": "2021-10-04T19:16:39.827Z",
             "sessionCreatedAt": "2022-03-06T09:54:16.962Z",
             "y": "3",
+            "percentage": "-3",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
@@ -279,6 +293,7 @@ module.exports = {
             "matchDate": "2021-08-04T21:00:00.000Z",
             "sessionCreatedAt": "2022-05-23T09:40:56.505Z",
             "y": "4",
+            "percentage": "4",
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
