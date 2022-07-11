@@ -297,8 +297,9 @@ module.exports = {
             "sessionId": "01G3R4MR00P4CYHR7T6KPRE8J9",
             "matchDate": "2021-08-04T21:00:00.000Z",
             "sessionCreatedAt": "2022-05-23T09:40:56.505Z",
-            "y": "4",
-            "percentage": "4",
+            "y": 4,
+            "x": "12",
+            "percentage": 4,
             "opponentLogo": "",
             "myLogo": "https://api.staging.track160.com/api/v0/data/account-01FV01SA2TFRZVZSAMAB44RY4N/media/fc73b6c8-2256-4867-82a6-f82f46f23842",
             "highlights": {
